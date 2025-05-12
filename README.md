@@ -4,8 +4,6 @@ Esto significa que podemos escribir un método general que reciba un objeto del 
 
 Además, si se desea usar un comportamiento específico de una clase hija (como EncenderRadio() en la clase Carro), se puede usar el operador is para hacer una conversión segura del objeto.
 
-
-
 using System; // Importa funcionalidades básicas como entrada/salida por consola
 
 // Define un espacio de nombres para organizar las clases y evitar conflictos
